@@ -823,7 +823,7 @@ section.lazy-placeholder:after {
 .cid-rDRbZQNeI4 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dog-plane-gettyimages-632838238-2000x13349.jpg");
+  background-image: url("../../../assets/images/dog-plane-gettyimages-632838238-2000x133416.jpg");
 }
 .cid-rDRbZQNeI4 .media-container-row {
   flex-direction: row-reverse;
@@ -1087,7 +1087,7 @@ section.lazy-placeholder:after {
 .cid-rDRIirEOtt {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dog-plane-gettyimages-632838238-2000x13349.jpg");
+  background-image: url("../../../assets/images/dog-plane-gettyimages-632838238-2000x133416.jpg");
 }
 .cid-rDRIirEOtt .media-container-row {
   flex-direction: row-reverse;
@@ -1506,4 +1506,27 @@ section.lazy-placeholder:after {
 }
 .cid-rDRdWdMYIA .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-rDTc9BGuqJ {
+  background: #ffffff;
+}
+.cid-rDTc9BGuqJ .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rDTc9BGuqJ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rDTc9BGuqJ figcaption {
+  position: relative;
+}
+.cid-rDTc9BGuqJ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rDTc9BGuqJ .image-block {
+    width: 100% !important;
+  }
 }
